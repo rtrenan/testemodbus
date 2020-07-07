@@ -1,0 +1,17 @@
+C:\Users\Renan\Desktop\Microgenios\C#\Teste\Nmodbus_teste\Nmodbus_teste\obj\Debug\Nmodbus_teste.csprojAssemblyReference.cache
+C:\Users\Renan\Desktop\Microgenios\C#\Teste\Nmodbus_teste\Nmodbus_teste\obj\Debug\Nmodbus_teste.Form1.resources
+C:\Users\Renan\Desktop\Microgenios\C#\Teste\Nmodbus_teste\Nmodbus_teste\obj\Debug\Nmodbus_teste.Properties.Resources.resources
+C:\Users\Renan\Desktop\Microgenios\C#\Teste\Nmodbus_teste\Nmodbus_teste\obj\Debug\Nmodbus_teste.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\Microgenios\C#\Teste\Nmodbus_teste\Nmodbus_teste\obj\Debug\Nmodbus_teste.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\Microgenios\C#\Teste\Nmodbus_teste\Nmodbus_teste\bin\Debug\Nmodbus_teste.exe.config
+C:\Users\Renan\Desktop\Microgenios\C#\Teste\Nmodbus_teste\Nmodbus_teste\bin\Debug\Nmodbus_teste.exe
+C:\Users\Renan\Desktop\Microgenios\C#\Teste\Nmodbus_teste\Nmodbus_teste\bin\Debug\Nmodbus_teste.pdb
+C:\Users\Renan\Desktop\Microgenios\C#\Teste\Nmodbus_teste\Nmodbus_teste\bin\Debug\NModbus.dll
+C:\Users\Renan\Desktop\Microgenios\C#\Teste\Nmodbus_teste\Nmodbus_teste\bin\Debug\NModbus.Serial.dll
+C:\Users\Renan\Desktop\Microgenios\C#\Teste\Nmodbus_teste\Nmodbus_teste\bin\Debug\NModbus.Serial.pdb
+C:\Users\Renan\Desktop\Microgenios\C#\Teste\Nmodbus_teste\Nmodbus_teste\bin\Debug\NModbus.Serial.xml
+C:\Users\Renan\Desktop\Microgenios\C#\Teste\Nmodbus_teste\Nmodbus_teste\bin\Debug\NModbus.pdb
+C:\Users\Renan\Desktop\Microgenios\C#\Teste\Nmodbus_teste\Nmodbus_teste\bin\Debug\NModbus.xml
+C:\Users\Renan\Desktop\Microgenios\C#\Teste\Nmodbus_teste\Nmodbus_teste\obj\Debug\Nmodbus_teste.csproj.CopyComplete
+C:\Users\Renan\Desktop\Microgenios\C#\Teste\Nmodbus_teste\Nmodbus_teste\obj\Debug\Nmodbus_teste.exe
+C:\Users\Renan\Desktop\Microgenios\C#\Teste\Nmodbus_teste\Nmodbus_teste\obj\Debug\Nmodbus_teste.pdb
